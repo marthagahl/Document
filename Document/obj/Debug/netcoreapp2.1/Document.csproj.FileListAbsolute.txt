@@ -1,0 +1,11 @@
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/obj/Debug/netcoreapp2.1/Document.csprojAssemblyReference.cache
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/obj/Debug/netcoreapp2.1/Document.csproj.CoreCompileInputs.cache
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/obj/Debug/netcoreapp2.1/Document.AssemblyInfoInputs.cache
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/obj/Debug/netcoreapp2.1/Document.AssemblyInfo.cs
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/bin/Debug/netcoreapp2.1/Document.deps.json
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/bin/Debug/netcoreapp2.1/Document.runtimeconfig.json
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/bin/Debug/netcoreapp2.1/Document.runtimeconfig.dev.json
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/bin/Debug/netcoreapp2.1/Document.dll
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/bin/Debug/netcoreapp2.1/Document.pdb
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/obj/Debug/netcoreapp2.1/Document.dll
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/Document/Document/obj/Debug/netcoreapp2.1/Document.pdb
